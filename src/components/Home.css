@@ -1,0 +1,24 @@
+/* Styles for the Home component */
+
+/* Dark green background for the entire page */
+.home-container {
+  background-color: #154734;
+  color: #fff; /* White text color */
+  padding: 50px;
+  text-align: center;
+}
+
+/* Styling for the moving text */
+.typewriter h1 {
+  font-size: 3em; /* Increased font size for the moving text */
+  margin: 0;
+  padding: 20px; /* Added padding for better spacing */
+  font-family: 'Arial', sans-serif; /* Font family for the moving text */
+}
+
+/* Styling for the explanatory paragraph */
+.explanation {
+  font-size: 1.2em; /* Increased font size for the explanation */
+  margin-top: 20px; /* Added margin at the top for spacing */
+  line-height: 1.5; /* Adjusted line height for readability */
+}

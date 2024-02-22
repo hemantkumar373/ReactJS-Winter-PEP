@@ -1,0 +1,16 @@
+my-react-app/
+  ├── src/
+  │   ├── components/
+  │   │   ├── Home.js
+  │   │   ├── Navbar.js
+  │   │   ├── FormAction.js
+  │   ├── App.js
+  │   ├── index.js
+  ├── package.json
+  ├── .gitignore
+
+problem faced:
+1.Understanding and setting up routing with react-router-dom might be initially complex for me
+2.collecting data from users.
+3.faced problem when i am using usestate and useeffect;
+4.set path for components.
